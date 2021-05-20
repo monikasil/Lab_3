@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Third assignment template</string>
+    <string name="open_receiver_activity">Open new activity</string>
+    <string name="btn_add">Add note</string>
+    <string name="type_note_here">Type note here</string>
+</resources>
